@@ -24,7 +24,7 @@
 
 **what’s wrong with this: var fullName = firstName + lastName?**
 
--your answer- there are no ( ) 
+-your answer- there are no Quotes 
 
 
 **what do javascript lines normally end with?**
