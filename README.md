@@ -9,7 +9,7 @@
 
 **why does this work `alert(5);` but not this `alert(nope sorry doesn’t work);`**
 
--your answer- you need qouts to use letters
+-your answer- you need quotes to use letters
 
 
 **how do you put together two strings?**
