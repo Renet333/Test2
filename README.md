@@ -9,7 +9,7 @@
 
 **why does this work `alert(5);` but not this `alert(nope sorry doesn’t work);`**
 
--your answer- you need quotes to use letters
+-your answer- you need quotes to use letters or itl be read as a variable
 
 
 **how do you put together two strings?**
@@ -24,7 +24,7 @@
 
 **what’s wrong with this: var fullName = firstName + lastName?**
 
--your answer- there are no Quotes 
+-your answer- there are no spaces 
 
 
 **what do javascript lines normally end with?**
